@@ -1,0 +1,42 @@
+/* App.css */
+
+.container h1 img{
+  width: 30px;
+  
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+.form-input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+.remaining-task{
+  display: inline-block;
+  margin-left: 80px;
+}
+.completed-task{
+  display: inline-block;
+  margin-left: 100px;
+}
